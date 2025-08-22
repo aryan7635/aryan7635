@@ -1,11 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+🙋‍♂️;I+am+Aryan+....;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+What's+Up?🙋‍♂️;I+am+Aryan+....;)](https://git.io/typing-svg)
 
 ## About Me 🙋‍♂️
 🎓 Currently a Computer Science Studennt at PSIT Kanpur.  
 🌱 I’m currently learning JS frameworks (like React and Node) and Machine Learning.  
 💻 I love Problem Solving.  
-🎧 I love listening to songs.  
+🎧 I love listening to play cricket.  
 😄 I'm interested in learning new skills.  
 
 
